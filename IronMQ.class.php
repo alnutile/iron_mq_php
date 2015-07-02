@@ -1,4 +1,4 @@
-<?php
+<?php namespace IronMQ;
 /**
  * PHP client for IronMQ
  * IronMQ is a scalable, reliable, high performance message queue in the cloud.
